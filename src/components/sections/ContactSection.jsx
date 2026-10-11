@@ -17,7 +17,7 @@ export function ContactSection() {
         </div>
 
         <div>
-          <table className="grid">
+          <table className="grid contact-table">
             <tbody>
               <tr><th scope="row">Role</th><td>Communications Engineering Master&apos;s Student</td></tr>
               <tr><th scope="row">Work</th><td>Freelance Web Developer</td></tr>

@@ -16,7 +16,7 @@
 .notice {
   margin-top: 10px;
   padding: 6px 8px;
-  background: var(--kpi-bg);
+  background: var(--kpi-bg);  
   border: 1px solid var(--kpi-border);
 }
 
@@ -51,6 +51,10 @@
   min-width: 690px;
   border-collapse: collapse;
   background: #fff;
+}
+
+.grid.contact-table {
+  min-width: 0;
 }
 
 .grid th {
