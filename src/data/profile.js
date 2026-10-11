@@ -2,7 +2,7 @@ export const profile = {
   name: 'Youssef Saidani',
   title: 'Communications Engineering MSc Student · Full-Stack & Backend Developer',
   location: 'Catania, Sicily, Italy',
-  email: 'youssef.saidani.dev@gmail.com',
+  email: 'youssefsaidani19@gmail.com',
   github: 'https://github.com/Y0U5S3F',
   linkedin: 'https://www.linkedin.com/in/youssef-saidani/',
   summary:
