@@ -33,12 +33,21 @@ export const featuredProjects = [
     repo: 'private',
   },
   {
+    title: 'Random Small Utilities',
+    note: 'Collection of productivity tools & desktop utilities',
+    description:
+      'A curated set of handy desktop and script-based tools including a custom PS4 Avatar Maker (built with Python and PyQt6), a youtube playlist downloader, and a work time tracker to track each employee\'s work schedule.',
+    technologies: ['Python', 'PyQt6', 'Desktop App', 'Automation', 'Scripting'],
+    repo: 'private',
+  },
+  {
     title: 'Matricule Tn',
     note: 'AI traffic radar / vehicle recognition system',
     description:
       'An AI-powered road monitoring system that detects vehicles, reads license plates, and estimates vehicle speed from video. Built around Tunisian license-plate data and real-world computer vision techniques.',
     technologies: ['Python', 'YOLOv8', 'EasyOCR', 'Roboflow', 'Computer Vision', 'Speed Estimation'],
-    repo: 'project',
+    repoUrl: 'https://github.com/Y0U5S3F/matricule-tn',
+    repoLabel: 'View repository',
   },
   {
     title: 'Flex Gym',
